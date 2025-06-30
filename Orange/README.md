@@ -11,10 +11,9 @@ class inequality and university choice, I looked high and low for an economic cl
 dataset that I could merge with my base data, but couldn't find one - not even in the U.N. 
 dataset collection. I made this to fill that need, and I hope it helps you out.
 
-All data is sourced from the most recent info and numbers I could find from highly 
-reputable sources. I'll definitely update it when new info comes available, 
-so bookmark this and watch for updates.
-
+Kaggle Dataset(Exercise):
+https://www.kaggle.com/datasets/rajkumar898/students-performance-dataset
+(WARNING: ARTIFICIALLY GENERATED, not real world data!!!!)
 
 NLP source exercise data link:
 https://sites.google.com/dfa.gov.ph/ungarchiveph/by-administration?authuser=0
