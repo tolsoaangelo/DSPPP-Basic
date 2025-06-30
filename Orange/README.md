@@ -15,9 +15,9 @@ All data is sourced from the most recent info and numbers I could find from high
 reputable sources. I'll definitely update it when new info comes available, 
 so bookmark this and watch for updates.
 
-NLP source data link:
-https://sites.google.com/dfa.gov.ph/ungarchiveph/by-administration?authuser=0
 
+NLP source exercise data link:
+https://sites.google.com/dfa.gov.ph/ungarchiveph/by-administration?authuser=0
 Note: I just scraped these speeches from this website. This is a collection of speeches of Philippine Officials 
 in United Nations General Assembly(UNGA) throughout the years(since 1946).
 
