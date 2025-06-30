@@ -1,7 +1,7 @@
 Module Link::
 https://docs.google.com/document/d/1I9gpidjQvlPizhSJgBvV2xYNbOFktG6I/edit
 
-Kaggle Dataset Link:
+Kaggle Dataset Link(ML part):
 https://www.kaggle.com/datasets/jeanetteponder/world-economic-classifications
 
 Words from the Author:
