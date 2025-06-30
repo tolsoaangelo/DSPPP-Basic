@@ -1,0 +1,206 @@
+country_name,un_class_2014,imf_class_2023,g7,eu_member,fuel_exp_country,wealth_rank,gdp_ppp_2022,gdp_pc_2022
+Luxembourg,Developed,Advanced,No,Yes,No,1.0,142214.0,127046.0
+Singapore,Developing,Advanced,No,No,No,2.0,127565.0,78115.0
+Ireland,Developed,Advanced,No,Yes,No,3.0,126905.0,105362.0
+Norway,Developed,Advanced,No,No,No,4.0,114899.0,106594.0
+Qatar,Developing,Emerging,No,No,Yes,5.0,114648.0,88046.0
+United Arab Emirates (UAE),Transition,Advanced,No,No,Yes,6.0,87729.0,53758.0
+Switzerland,Developed,Advanced,No,No,No,7.0,83598.0,92410.0
+United States,Developed,Advanced,Yes,No,No,8.0,76399.0,75269.0
+Denmark,Developed,Advanced,No,Yes,No,9.0,74005.0,67220.0
+Netherlands,Developed,Advanced,No,Yes,No,10.0,69577.0,56429.0
+Brunei Darussalam,Developing,Emerging,No,No,Yes,11.0,69275.0,37152.0
+Iceland,Developed,Advanced,No,No,No,12.0,69081.0,74663.0
+Hong Kong SAR,Developing,Advanced,No,No,No,13.0,69049.0,48050.0
+Austria,Developed,Advanced,No,Yes,No,14.0,67936.0,52732.0
+Belgium,Developed,Advanced,No,Yes,No,15.0,65027.0,49640.0
+Sweden,Developed,Advanced,No,Yes,No,16.0,64578.0,55543.0
+Germany,Developed,Advanced,Yes,Yes,No,17.0,63150.0,48845.0
+Australia,Developed,Advanced,No,No,No,18.0,62625.0,64003.0
+Bahrain,Developing,Emerging,No,No,Yes,19.0,61228.0,30152.0
+Saudi Arabia,Developing,Emerging,No,No,Yes,20.0,59065.0,30436.0
+Finland,Developed,Advanced,No,Yes,No,21.0,59027.0,50684.0
+Canada,Developed,Advanced,Yes,No,No,22.0,58400.0,55646.0
+Kuwait,Developing,Emerging,No,No,Yes,23.0,58056.0,43233.0
+Malta,Developed,Advanced,No,Yes,Yes,24.0,55928.0,33313.0
+France,Developed,Advanced,Yes,Yes,No,25.0,55493.0,43061.0
+Macao SAR,Developing,Advanced,No,No,No,26.0,55344.0,31618.0
+United Kingdom,Developed,Advanced,Yes,No,No,27.0,54603.0,45485.0
+Aoeteroa (New Zealand),Developed,Advanced,No,No,No,28.0,51967.0,47680.0
+Italy,Developed,Advanced,Yes,Yes,No,29.0,51865.0,34053.0
+South Korea,Developing,Advanced,No,No,No,30.0,50070.0,32138.0
+Slovenia,Developed,Advanced,No,Yes,No,31.0,50032.0,29303.0
+Czech Republic,Developed,Advanced,No,Yes,No,32.0,49946.0,27723.0
+Cyprus,Developed,Advanced,No,Yes,No,33.0,49931.0,22724.0
+Israel,Developing,Advanced,No,No,No,34.0,49509.0,57758.0
+Lithuania,Developed,Advanced,No,Yes,No,35.0,48397.0,25576.0
+Estonia,Developed,Advanced,No,Yes,No,36.0,46697.0,28732.0
+Spain,Developed,Advanced,No,Yes,No,37.0,45825.0,29385.0
+Japan,Developed,Advanced,Yes,No,No,38.0,45573.0,34135.0
+Poland,Developed,Advanced,No,Yes,No,39.0,43269.0,17266.0
+Hungary,Developed,Advanced,No,Yes,No,40.0,41907.0,17938.0
+Romania,Developed,Advanced,No,Yes,No,41.0,41888.0,15324.0
+Oman,Developing,Emerging,No,No,Yes,42.0,41724.0,25057.0
+Portugal,Developed,Advanced,No,Yes,No,43.0,41452.0,24530.0
+Guyana,Developing,Emerging,No,No,No,44.0,40642.0,18990.0
+Croatia,Developed,Advanced,No,Yes,No,45.0,40380.0,17608.0
+Bahamas,,Emerging,No,No,No,46.0,40379.0,31458.0
+Latvia,Developed,Advanced,No,Yes,No,47.0,39956.0,22238.0
+Panama,Developing,Emerging,No,No,No,48.0,39280.0,17358.0
+Slovakia,Developed,Advanced,No,Yes,No,49.0,37459.0,20461.0
+Türkiye (Turkey),Developing,Emerging,No,No,No,50.0,37274.0,10616.0
+Greece,Developed,Advanced,No,Yes,No,51.0,36835.0,21095.0
+Russian Federation (Russia),Transition,Emerging,No,No,Yes,52.0,36485.0,15482.0
+Seychelles,,Emerging,No,No,No,53.0,35228.0,14829.0
+St. Kitts and Nevis,,Emerging,No,No,No,54.0,34052.0,20177.0
+Bulgaria,Developed,Advanced,No,Yes,No,55.0,33582.0,13129.0
+Malaysia,Developing,Advanced,No,No,No,56.0,33434.0,11972.0
+Kazakhstan,Transition,Emerging,No,No,No,57.0,30810.0,11373.0
+Chile,Developing,Emerging,No,No,No,58.0,30209.0,15355.0
+Uruguay,Developing,Emerging,No,No,No,59.0,28842.0,20795.0
+Trinidad and Tobago,Developing,Emerging,No,No,Yes,60.0,27778.0,18222.0
+Montenegro,Transition,Emerging,No,No,No,61.0,26984.0,9721.0
+Mauritius,Developing,Emerging,No,No,No,62.0,26906.0,9926.0
+Argentina,Developing,Emerging,No,No,No,63.0,26505.0,13904.0
+Antigua and Barbuda,,Emerging,No,No,No,64.0,25337.0,18745.0
+Costa Rica,Developing,Emerging,No,No,No,65.0,24932.0,13199.0
+Maldives,,,No,No,No,66.0,24772.0,11818.0
+Serbia,Transition,Emerging,No,No,No,67.0,23911.0,8794.0
+Libya,Developing,Emerging,No,No,Yes,68.0,23375.0,6716.0
+Dominican Republic,Developing,Emerging,No,No,No,69.0,22834.0,10121.0
+Belarus,Transition,Emerging,No,No,No,70.0,22591.0,7634.0
+Mexico,Developing,Emerging,No,No,No,71.0,21512.0,11091.0
+China,Developing,Emerging,No,No,No,72.0,21476.0,12598.0
+Thailand,Developing,Emerging,No,No,No,73.0,20672.0,6909.0
+Bosnia and Herzegovina,Transition,Emerging,No,No,No,74.0,20377.0,7585.0
+Colombia,Developing,Emerging,No,No,Yes,75.0,20287.0,6630.0
+Macedonia,Transition,Emerging,No,No,No,76.0,20162.0,6478.0
+Georgia,Transition,Emerging,No,No,No,77.0,20113.0,6571.0
+Armenia,Transition,Emerging,No,No,No,78.0,18942.0,7014.0
+Albania,Transition,Emerging,No,No,No,79.0,18552.0,6643.0
+Botswana,Developing,Emerging,No,No,No,80.0,18323.0,7738.0
+Iran (Islamic Republic of),Developing,Emerging,No,No,Yes,81.0,18075.0,4388.0
+Barbados,Developing,Emerging,No,No,No,82.0,17837.0,20019.0
+Brazil,Developing,Emerging,No,No,No,83.0,17822.0,8918.0
+Azerbijan,Transition,Emerging,No,No,Yes,84.0,17764.0,7600.0
+St. Lucia,,Emerging,No,No,No,85.0,17756.0,11481.0
+Suriname,,Emerging,No,No,No,86.0,17620.0,5858.0
+Equitorial Guinea,Developing,Emerging,No,No,Yes,87.0,17396.0,7053.0
+St. Vincent and the Grenadines,,Emerging,No,No,No,88.0,17207.0,9125.0
+Grenada,,,No,No,No,89.0,16987.0,10016.0
+Gabon,Developing,Emerging,No,No,Yes,90.0,16471.0,8820.0
+Paraguay,Developing,Emerging,No,No,No,91.0,15977.0,6153.0
+South Africa,Developing,Emerging,No,No,No,92.0,15905.0,6776.0
+Moldova,Transition,Emerging,No,No,No,93.0,15238.0,4406.0
+Egypt,Developing,Emerging,No,No,Yes,94.0,15091.0,4295.0
+Peru,Developing,Emerging,No,No,No,95.0,15048.0,7126.0
+Indonesia,Developing,Advanced,No,No,Yes,96.0,14653.0,4788.0
+Sri Lanka,Developing,Emerging,No,No,No,97.0,14405.0,3408.0
+Mongolia,Developing,Emerging,No,No,No,98.0,14230.0,4947.0
+Fiji,,Developing,No,No,No,99.0,14125.0,5317.0
+Dominica,,Emerging,No,No,No,100.0,13573.0,8415.0
+Viet Nam (Vietnam),Developing,Emerging,No,No,Yes,101.0,13457.0,4164.0
+Algeria,Developing,Emerging,No,No,Yes,102.0,13210.0,4274.0
+Ecuador,Developing,Emerging,No,No,Yes,103.0,12822.0,6391.0
+Ukraine,Transition,Emerging,No,No,No,104.0,12671.0,4043.0
+Tunisia,Developing,Emerging,No,No,No,105.0,12490.0,3777.0
+Jamaica,Developing,Emerging,No,No,No,106.0,11822.0,6047.0
+Belize,,Emerging,No,No,No,107.0,11451.0,6968.0
+Namibia,Developing,Emerging,No,No,No,108.0,11206.0,4911.0
+El Salvador,Developing,Emerging,No,No,No,109.0,11096.0,5127.0
+Jordan,Developing,Emerging,No,No,No,110.0,11003.0,4205.0
+Iraq,Developing,Emerging,No,No,Yes,111.0,10862.0,5937.0
+Guatemala,Developing,Emerging,No,No,No,112.0,10818.0,5324.0
+Eswatini,,Emerging,No,No,No,113.0,10782.0,4040.0
+Philippines,Developing,Emerging,No,No,No,114.0,10133.0,3499.0
+Bolivia (Plurinational State of),Developing,Emerging,No,No,Yes,115.0,9684.0,3523.0
+Uzbekistan,Transition,Emerging,No,No,Yes,116.0,9533.0,2322.0
+Morocco,Developing,Emerging,No,No,No,117.0,9519.0,3582.0
+Lao P.D.R. (Laos),,Emerging,No,No,No,118.0,9384.0,2088.0
+Cabo Verde,Developing,Emerging,No,No,No,119.0,9083.0,3903.0
+India,Developing,Emerging,No,No,No,120.0,8379.0,2389.0
+Bangladesh,Developing,Emerging,No,No,No,121.0,7395.0,2688.0
+Marshall Islands,,,No,No,No,122.0,7228.0,6728.0
+Angola,Developing,Emerging,No,No,Yes,123.0,6974.0,2999.0
+Nicaragua,Developing,Emerging,No,No,No,124.0,6875.0,2255.0
+Palestine (State Of),,Emerging,No,No,No,125.0,6757.0,3640.0
+Honduras,Developing,Emerging,No,No,No,126.0,6741.0,3040.0
+Côte d’Ivoire,Developing,Emerging,No,No,Yes,127.0,6538.0,2486.0
+Ghana,Developing,Emerging,No,No,No,128.0,6498.0,2176.0
+Pakistan,Developing,Emerging,No,No,No,129.0,6437.0,1597.0
+Mauritania,Developing,Emerging,No,No,No,130.0,6424.0,2191.0
+Kyrgyzstan,Transition,Emerging,No,No,No,131.0,6133.0,1649.0
+Samoa,,Emerging,No,No,No,132.0,6041.0,3743.0
+Nigeria,Developing,Emerging,No,No,Yes,133.0,5860.0,2184.0
+Kenya,Developing,Emerging,No,No,No,134.0,5764.0,2099.0
+Tuvalu,,Emerging,No,No,No,135.0,5421.0,5335.0
+Tajikistan,Transition,Emerging,No,No,No,137.0,4885.0,1054.0
+Myanmar,Developing,Emerging,No,No,No,138.0,4870.0,1096.0
+Timor-Leste,Developing,Emerging,No,No,No,139.0,4828.0,2358.0
+Sao Tome and Prinicipe,Developing,Emerging,No,No,No,140.0,4738.0,2404.0
+Nepal,Developing,Emerging,No,No,No,141.0,4725.0,1337.0
+Papua New Guinea,Developing,Emerging,No,No,No,142.0,4447.0,3020.0
+Cameroon,Developing,Emerging,No,No,Yes,143.0,4408.0,1588.0
+Sudan,Developing,Emerging,No,No,Yes,144.0,4216.0,1102.0
+Senegal,Developing,Emerging,No,No,No,145.0,4209.0,1599.0
+Benin,Developing,Emerging,No,No,No,146.0,4056.0,1303.0
+Zambia,Developing,Emerging,No,No,No,147.0,3894.0,1488.0
+Micronesia,,,No,No,No,148.0,3855.0,792.0
+Comoros,Developing,Emerging,No,No,No,149.0,3832.0,1485.0
+Congo,Developing,Emerging,No,No,Yes,150.0,3791.0,2448.0
+Haiti,Developing,Emerging,No,No,No,151.0,3305.0,1748.0
+Vanuatu,,Emerging,No,No,No,152.0,3289.0,3010.0
+Guinea,Developing,Emerging,No,No,No,153.0,3187.0,1532.0
+Tanzania,Developing,Emerging,No,No,No,154.0,3097.0,1156.0
+Ethiopia,Developing,Emerging,No,No,No,155.0,2812.0,1028.0
+Rwanda,Developing,Emerging,No,No,No,156.0,2792.0,966.0
+Lesotho,Developing,Emerging,No,No,No,157.0,2695.0,1107.0
+Uganda,Developing,Emerging,No,No,No,158.0,2694.0,964.0
+Solomon Islands,,Emerging,No,No,No,159.0,2654.0,2203.0
+Togo,Developing,Emerging,No,No,No,160.0,2608.0,918.0
+Burkina Faso,Developing,Emerging,No,No,No,161.0,2546.0,833.0
+Zimbabwe,Developing,Emerging,No,No,No,162.0,2531.0,1267.0
+Mali,Developing,Emerging,No,No,No,163.0,2517.0,833.0
+Gambia,Developing,Emerging,No,No,No,164.0,2510.0,840.0
+Kiribati,,Emerging,No,No,No,165.0,2365.0,1702.0
+Guinea-Bissau,Developing,Emerging,No,No,No,166.0,2190.0,776.0
+Sierra Leone,Developing,Emerging,No,No,No,167.0,1931.0,461.0
+Madagascar,Developing,Emerging,No,No,No,168.0,1774.0,505.0
+Malawi,Developing,Emerging,No,No,No,169.0,1732.0,645.0
+Liberia,Developing,Emerging,No,No,No,170.0,1725.0,755.0
+Chad,Developing,Emerging,No,No,Yes,171.0,1668.0,717.0
+Niger,Developing,Emerging,No,No,No,172.0,1505.0,533.0
+Mozambique,Developing,Emerging,No,No,No,173.0,1468.0,541.0
+Democratic Republic of Congo,Developing,Emerging,No,No,No,174.0,1337.0,586.0
+Central African Republic,Developing,Emerging,No,No,No,175.0,967.0,427.0
+Burundi,Developing,Emerging,No,No,No,176.0,836.0,238.0
+Afghanistan,,Emerging,No,No,No,177.0,,
+Northern Mariana Islands,Developing,Emerging,No,No,No,177.0,,
+Turkmenistan,Transition,Emerging,No,No,Yes,177.0,,
+American Samoa,,,No,No,No,,,
+Aruba,,Emerging,No,No,No,,,
+Bermuda,,,No,No,No,,,
+Bhutan,,Emerging,No,No,No,,,
+Cayman Islands,,,No,No,No,,,
+Channel Islands,,,No,No,No,,,
+Cuba,Developing,Emerging,No,No,No,,,
+Djibouti,Developing,Emerging,No,No,No,,,
+Eritrea,Developing,Emerging,No,No,No,,,
+Faroe Islands,,,No,No,No,,,
+Greenland,,,No,No,No,,,
+Guam,,,No,No,No,,,
+Isle of Man,,,No,No,No,,,
+Lebanon,Developing,Emerging,No,No,No,,,
+Lichtenstein,Developed,Advanced,No,No,No,,,
+Monaco,Developed,Advanced,No,No,No,,,
+Nauru,,Emerging,No,No,No,,,
+Palau,,Emerging,No,No,No,,,
+Puerto Rico (US),Developed,Advanced,No,No,No,,,
+San Marino,,Advanced,No,No,No,,,
+Somalia,Developing,Emerging,No,No,No,,,
+South Sudan,,Emerging,No,No,No,,,
+Syrian Arab Republic (Syria),Developing,Emerging,No,No,No,,,
+Taiwan,Developing,Advanced,No,No,No,,,
+Venezuela (Bolivarian Republic of),Developing,Emerging,No,No,Yes,,,
+Yemen,Developing,Emerging,No,No,Yes,,,
+Andorra,,Advanced,No,No,Yes,,,41993.0

@@ -1,0 +1,21 @@
+country_name,un_class_2014,imf_class_2023,g7,eu_member,fuel_exp_country,wealth_rank,gdp_ppp_2022,gdp_pc_2022
+Country 1,Developing,Developing,No,No,Yes,165,113878.99167474323,126758.5442569951
+Country 2,Transition,Developing,Yes,No,No,10,115126.7250653957,39822.812520712854
+Country 3,Developed,Developing,No,No,No,105,33584.01958621225,6862.021567262739
+Country 4,Transition,Advanced,Yes,No,No,91,54648.1102473194,114803.17413051266
+Country 5,Transition,Emerging,Yes,Yes,Yes,159,72693.05207081574,33602.991153672105
+Country 6,Developing,Developing,No,Yes,No,129,49913.69381360655,31505.285319198258
+Country 7,Developed,Emerging,No,No,Yes,141,131590.69824893185,41486.64737891103
+Country 8,Transition,Emerging,Yes,Yes,No,82,69988.96678504715,45887.05552947819
+Country 9,Developed,Developing,Yes,No,Yes,24,30126.25004817801,99772.40765496282
+Country 10,Developing,Emerging,Yes,Yes,No,47,114762.85569169618,83098.48999080196
+Country 11,Developing,Emerging,No,Yes,Yes,30,96478.82869939259,80693.8917329777
+Country 12,Developed,Developing,Yes,No,No,72,130813.95495213108,94897.44216868741
+Country 13,Developed,Emerging,Yes,Yes,No,33,135613.54179971878,39538.905124828736
+Country 14,Developed,Developing,No,No,Yes,20,106089.13847182384,3562.2248656438487
+Country 15,Developing,Emerging,Yes,Yes,No,135,30982.148922135446,75828.74787352965
+Country 16,Developed,Advanced,No,Yes,No,43,112291.10194338318,77158.71494323149
+Country 17,Developing,Developing,Yes,Yes,No,172,65977.81923474999,80573.61226326929
+Country 18,Developed,Advanced,Yes,Yes,Yes,107,116834.70318767878,100310.61840804292
+Country 19,Developing,Emerging,No,Yes,Yes,156,6204.302747927271,54229.27122917746
+Country 20,Developed,Developing,No,Yes,Yes,171,142090.35738315765,1349.1277049601888
